@@ -26,8 +26,7 @@ Your project will be judged on functionality and outcome. You may use any techno
 
 #### Sample ReadMe File:  
 <div style="border:1px solid black;">
-
-  I have used Django for this project. Below are the steps to run my project: 
+  <p>I have used Django for this project. Below are the steps to run my project: </p>
 
 **Step 1:** python manage.py runserver 
 
