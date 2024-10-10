@@ -6,8 +6,12 @@ The IT Code Challenge is a joint initiative between the ULM IT Department and th
   <img  src="https://github.com/user-attachments/assets/672539bc-f1a7-4747-a70c-911b5ecb42ca" height="400px" width="auto"/>
 </p>
 
-
-🗓️ Final Submission Deadline: 22nd October 11:59 PM
+🗓️ **Final Submission Deadline**: 22nd October 11:59 PM  
 _Winners will be announced in upcoming events!_
+
+####Table of Contents:
+- Question
+
+
 
 
