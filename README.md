@@ -40,7 +40,7 @@ In this coding challenge, you'll build an Alumni Search Directory, where users c
   
 Your project will be judged on functionality and outcome. You may use any technology but ensure to include README.md or README.txt explaining your tech stack and project setup. 
 
-#### Sample ReadMe File:  
+#### <p id="sample">Sample ReadMe File:</p>
 I have used Django for this project. Below are the steps to run my project:
   
 **Step 1:** python manage.py runserver 
@@ -54,13 +54,13 @@ I have used Django for this project. Below are the steps to run my project:
 I used the given URL to retrieve the dataset, and my output is entirely based on this data. If the dataset changes in the future, my solution will still function as expected. 
 
 
-## How to get the dataset?
+## <p id="dataset">How to get the dataset?</p>
 
 To complete this challenge, you are provided with a dataset, which can be accessed at: [Click Here for Link](https://bit.ly/3XRzI68)
 
 _Keep in mind that additional datasets will be used for evaluation._
 
-### Evaluation Criteria:
+### <p id="evalauation">Evaluation Criteria:</p>
 
 **Functionality:** How effectively does your solution address the problem using the provided dataset? 
 
@@ -71,3 +71,17 @@ _Keep in mind that additional datasets will be used for evaluation._
 **Scalable:** The solution's interface should perform well with any dataset, including large datasets. 
 
 **Innovation:** The creativity of your solution, including any additional features like search functionality and pagination. 
+
+## <p id="submit">How to Submit?</p>
+
+Please submit the link to your GitHub repository and, if hosted, the website link using the following form: 
+
+https://webservices.ulm.edu/webforms/form/it-code-challenge-submissions 
+
+Submission Open: October 15 (Tue) 
+
+Final Submission Date: October 22 (Tue) 
+
+Results Announcement: October 28 (Mon) 
+
+Note: You can submit multiple solutions, but only your final submission will be considered for evaluation. 
