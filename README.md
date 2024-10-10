@@ -44,7 +44,7 @@ To complete this challenge, you are provided with a dataset, which can be access
 
 _Keep in mind that additional datasets will be used for evaluation. _
 
-#### Evaluation Criteria:
+### Evaluation Criteria:
 
 **Functionality:** How effectively does your solution address the problem using the provided dataset? 
 
