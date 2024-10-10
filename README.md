@@ -16,9 +16,9 @@ The IT Code Challenge is a joint initiative between the ULM IT Department and th
 <ol>
   <li>
     <a href="#question">Question</a>
-    <ul>
+    <ol>
       <li>Sample ReadMe File</li>
-    </ul>
+    </ol>
   </li>
   <li><a href="#dataset">How to Get the Dataset?</a></li>
 </ol> 
