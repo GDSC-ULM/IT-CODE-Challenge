@@ -19,10 +19,9 @@ The IT Code Challenge is a joint initiative between the ULM IT Department and th
 
 ## Question
 
-In this coding challenge, you'll build an Alumni Search Directory, where users can find and connect with alumni across various industries. The solution could be a website, or app, but must be easy to access. The directory includes profiles with personal, professional, and business details, helping users access contacts, services, or alumni discounts. 
-
-<br />
-
+In this coding challenge, you'll build an Alumni Search Directory, where users can find and connect with alumni across various industries. The solution could be a website, or app, but must be easy to access. The directory includes profiles with personal, professional, and business details, helping users access contacts, services, or alumni discounts.  
+  
+  
 Your project will be judged on functionality and outcome. You may use any technology but ensure to include README.md or README.txt explaining your tech stack and project setup. 
 
 
