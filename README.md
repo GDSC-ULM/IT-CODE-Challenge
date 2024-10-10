@@ -73,6 +73,8 @@ _Keep in mind that additional datasets will be used for evaluation._
 
 **Innovation:** The creativity of your solution, including any additional features like search functionality and pagination. 
 
+**Code Readability and Efficiency:** The code you write will also be evaluated.
+
 ## <p id="submit">How to Submit?</p>
 
 Please submit the link to your GitHub repository and, if hosted, the website link using the following form: 
