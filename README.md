@@ -84,4 +84,28 @@ https://webservices.ulm.edu/webforms/form/it-code-challenge-submissions
 
 **Results Announcement:** October 28 (Mon) 
 
-_**Note: You can submit multiple solutions, but only your final submission will be considered for evaluation.**_
+_Note: You can submit multiple solutions, but only your final submission will be considered for evaluation._
+
+## <p id="help">Need Help?</p>
+
+If you need any help during the process, feel free to join the GDSC Discord Server and ask for assistance in the chat. 
+
+Join here: GDSC Discord Server (https://discord.gg/a2Fy4KVxRs) 
+
+## <p id="resources">Resources?</p>
+
+Images and Logos: Use free image resources like: 
+
+Logos: Logo Ipsum (https://logoipsum.com/) 
+
+Images: Pexels (https://www.pexels.com/) 
+
+Please check your text foreground and background colors for legibility. There are several sites available online, the following are two samples. 
+
+https://webaim.org/resources/contrastchecker/ 
+
+https://color.adobe.com/create/color-contrast-analyzer 
+
+For example, your text would be the foreground color, the background is the color behind the text. 
+
+Check for Level "AAA" 
