@@ -78,10 +78,10 @@ Please submit the link to your GitHub repository and, if hosted, the website lin
 
 https://webservices.ulm.edu/webforms/form/it-code-challenge-submissions 
 
-Submission Open: October 15 (Tue) 
+**Submission Open:** October 15 (Tue) 
 
-Final Submission Date: October 22 (Tue) 
+**Final Submission Date:** October 22 (Tue) 
 
-Results Announcement: October 28 (Mon) 
+**Results Announcement:** October 28 (Mon) 
 
-Note: You can submit multiple solutions, but only your final submission will be considered for evaluation. 
+_**Note: You can submit multiple solutions, but only your final submission will be considered for evaluation.**_
