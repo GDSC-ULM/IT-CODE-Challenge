@@ -40,7 +40,7 @@ In this coding challenge, you'll build an Alumni Search Directory, where users c
   
 Your project will be judged on functionality and outcome. You may use any technology but ensure to include README.md or README.txt explaining your tech stack and project setup. 
 
-#### <p id="sample">Sample ReadMe File:</p>
+### <p id="sample">Sample ReadMe File:</p>
 I have used Django for this project. Below are the steps to run my project:
   
 **Step 1:** python manage.py runserver 
@@ -60,7 +60,7 @@ To complete this challenge, you are provided with a dataset, which can be access
 
 _Keep in mind that additional datasets will be used for evaluation._
 
-### <p id="evalauation">Evaluation Criteria:</p>
+### <p id="evaluation">Evaluation Criteria:</p>
 
 **Functionality:** How effectively does your solution address the problem using the provided dataset? 
 
