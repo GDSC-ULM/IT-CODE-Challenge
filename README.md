@@ -25,7 +25,9 @@ In this coding challenge, you'll build an Alumni Search Directory, where users c
 Your project will be judged on functionality and outcome. You may use any technology but ensure to include README.md or README.txt explaining your tech stack and project setup. 
 
 #### Sample ReadMe File:  
-I have used Django for this project. Below are the steps to run my project: 
+<div style="border:1px solid black;">
+
+  I have used Django for this project. Below are the steps to run my project: 
 
 **Step 1:** python manage.py runserver 
 
@@ -36,5 +38,7 @@ I have used Django for this project. Below are the steps to run my project:
 **Step 4:** .. 
 
 I used the given URL to retrieve the dataset, and my output is entirely based on this data. If the dataset changes in the future, my solution will still function as expected. 
+</div>
+
 
 
