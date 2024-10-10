@@ -42,7 +42,7 @@ I used the given URL to retrieve the dataset, and my output is entirely based on
 
 To complete this challenge, you are provided with a dataset, which can be accessed at: [Click Here for Link](https://bit.ly/3XRzI68)
 
-_Keep in mind that additional datasets will be used for evaluation. _
+_Keep in mind that additional datasets will be used for evaluation._
 
 ### Evaluation Criteria:
 
